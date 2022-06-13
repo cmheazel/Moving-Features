@@ -1,0 +1,17 @@
+[bibliography]
+[[Bibliography]]
+== Bibliography
+
+[1] https://www.tandfonline.com/eprint/4AI7DBUZWV3B8VX7J2SW/full?target=10.1080/13658816.2020.1776293[Graser. A., Widhalm, P., & Dragaschnig, M.(2020). The M³ massive movement model: a distributed incrementally updatable solution for big movement data exploration. International Journal of Geographical Information Science. doi:10.1080/13658816.2020.1776293].
+
+[2] Zimányi, E., Sakr, M., & Lesuisse, A. (2020). MobilityDB: A mobility database based on PostgreSQL and PostGIS. ACM Transactions on Database Systems (TODS), 45(4), 1-42.
+
+[3] Musleh, M., Abbar, S., Stanojevic, R., & Mokbel, M. (2021). QARTA: an ML-based system for accurate map services. Proceedings of the VLDB Endowment, 14(11), 2273-2282.
+
+[4] Fu, Cheng; Huang, Haosheng; Weibel, Robert (2021). Adaptive simplification of GPS trajectories with geographic context – a quadtree-based approach. International Journal of Geographical Information Science, 35(4):661-688.
+
+[5] https://www.ogc.org/standards/sensorthings[https://www.ogc.org/standards/sensorthings]<o:p></o:p>
+
+[6] https://www.iso.org/standard/53798.html[https://www.iso.org/standard/53798.html]<o:p></o:p>
+
+[7] https://sensorup.com/[https://sensorup.com/]<o:p></o:p>
